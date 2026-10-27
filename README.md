@@ -64,6 +64,10 @@ php artisan serve
 
 Halaman menu toko dapat dibuka di `http://localhost:8000/{username}` dengan username toko yang terdaftar. Panel admin ada di `http://localhost:8000/admin`.
 
+## Tangkapan Layar
+
+![Tangkapan layar halaman utama](docs/screenshot.png)
+
 ## Lisensi
 
 Proyek ini memakai lisensi MIT. Lihat berkas [LICENSE](LICENSE) untuk teks lengkapnya.
